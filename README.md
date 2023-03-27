@@ -11,7 +11,7 @@ Project Challenges
 ---
 I cannot think of any major challenges here except the instruction manual, which is in Chinese and I do not speak it unfortunately. Instructions come in two pages. On the first page there is the circuit diagram and that was not hard to follow (with only the title in Chinese). The second page has important details such as power supply voltage, how to use the remote control, and how to switch between different modes of operation for improved user experience.
 
-In order to make life easier for the readers, I got the two instruction pages translated, which you can access using the following links:
+In order to make life easier for the readers, I got the two instruction pages translated, which you can access using the following links *(you can download all the files of course)*:
 
 **[1 - Instructions in English for page 1][2]**
 
@@ -31,4 +31,4 @@ Purchase Links
 [2]: /Instructions_in_English_page_1_of_2.jpg
 [3]: /Instructions_in_English_page_2_of_2.jpg
 [4]: /Original_instructions_page_1_of_2.jpg
-[5]: /Original_instructions_page_1_of_2.jpg
+[5]: /Original_instructions_page_2_of_2.jpg
