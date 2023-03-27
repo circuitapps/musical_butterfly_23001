@@ -23,8 +23,12 @@ There may be readers who would also like the original instructions in Chinese. T
 
 **[2 - Original instructions on Page 2 in Chinese][5]**
 
+Purchase Links
+---
+**[1 - Buy the complete project kit from Amazon][1]**
+
 [1]: https://amzn.to/3XwOpJJ
-[2]: ../Instructions_in_English_page_1_of_2.jpg
-[3]: ../Instructions_in_English_page_2_of_2.jpg
-[4]: ../Original_instructions_page_1_of_2.jpg
-[5]: ../Original_instructions_page_1_of_2.jpg
+[2]: ./Instructions_in_English_page_1_of_2.jpg
+[3]: ./Instructions_in_English_page_2_of_2.jpg
+[4]: ./Original_instructions_page_1_of_2.jpg
+[5]: ./Original_instructions_page_1_of_2.jpg
