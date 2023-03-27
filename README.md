@@ -28,7 +28,7 @@ Purchase Links
 **[1 - Buy the complete project kit from Amazon][1]**
 
 [1]: https://amzn.to/3XwOpJJ
-[2]: ./Instructions_in_English_page_1_of_2.jpg
-[3]: ./Instructions_in_English_page_2_of_2.jpg
-[4]: ./Original_instructions_page_1_of_2.jpg
-[5]: ./Original_instructions_page_1_of_2.jpg
+[2]: .blob/main/Instructions_in_English_page_1_of_2.jpg
+[3]: .blob/main/Instructions_in_English_page_2_of_2.jpg
+[4]: .blob/main/Original_instructions_page_1_of_2.jpg
+[5]: .blob/main/Original_instructions_page_1_of_2.jpg
